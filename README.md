@@ -1,2 +1,2 @@
 # Responsive-Portfolio-
-Media queried assignment 
+Media queries assignment 
